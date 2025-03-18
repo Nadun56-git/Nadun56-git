@@ -1,6 +1,6 @@
 <!-- welcome message -->
 
-# Hi there! I'm Nadun.
+# Hi there! I'm Cael.
 
 <!-- badge -->
 <div>
@@ -11,7 +11,7 @@
       src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="nadunekanayake56@gmail.com" target="_blank">
+  <a href="mailto:MR-Addict@qq.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
@@ -29,7 +29,7 @@
 
 <br/>
 
-I'm an undergradute student of Genaral Sir John Kotelawala Defence University.
+I'm an undergradute student of Njtech University from Jiangsu China.
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
