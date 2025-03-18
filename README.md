@@ -11,7 +11,7 @@
       src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="mailto:MR-Addict@qq.com" target="_blank">
+  <a href="nadunekanayake56@gmail.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
