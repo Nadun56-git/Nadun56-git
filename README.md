@@ -1,6 +1,6 @@
 <!-- welcome message -->
 
-# Hi there! I'm Cael.
+# Hi there! I'm Nadun.
 
 <!-- badge -->
 <div>
@@ -29,7 +29,7 @@
 
 <br/>
 
-I'm an undergradute student of Njtech University from Jiangsu China.
+I'm an undergradute student of Genaral Sir John Kotelawala Defence University.
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
